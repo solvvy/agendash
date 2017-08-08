@@ -26,6 +26,7 @@
   "dependencies": {
     "agenda": ">=0.7.0 <1.0.0",
     "async": "^1.0.0",
+    "bluebird": "^3.5.0",
     "body-parser": "^1.15.0",
     "commander": "^2.9.0",
     "express": "^4.0.0",
